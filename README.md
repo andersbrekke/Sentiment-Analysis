@@ -1,6 +1,8 @@
 # Sentiment-Analysis on Nords Goggles customer reviews:
 This guide outlines a simple example of how to use Cohere to analyze customer sentiment in Google Business reviews. The reviews are from real customers of https://nordsgoggles.com/ and were posted publicly.
 
+Run this in Colab:[https://colab.research.google.com/drive/1A6Y1S7mMrYkQOvCrp26fyX26AaOUmFV1?usp=sharing](https://colab.research.google.com/drive/1A6Y1S7mMrYkQOvCrp26fyX26AaOUmFV1?usp=sharing)
+
 ## Set-up
 Install package with pip:
     
