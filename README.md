@@ -1,5 +1,4 @@
-# Sentiment-Analysis
-Sentiment Analysis on Nords Goggles customer reviews:
+# Sentiment-Analysis on Nords Goggles customer reviews:
 
 ## Set-up
 Install package with pip:
