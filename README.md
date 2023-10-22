@@ -1,4 +1,5 @@
 # Sentiment-Analysis on Nords Goggles customer reviews:
+This guide outlines a simple example of how to use Cohere to analyze customer sentiment in Google Business reviews
 
 ## Set-up
 Install package with pip:
